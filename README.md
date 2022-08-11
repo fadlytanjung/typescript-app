@@ -1,6 +1,6 @@
-# TypeScript
+# TypeScript in a nutshell
 
-This repo contain resource of [Bicara Typescript](https://github.com/SastraNababan/bicara-typescript)
+This repo contain resource of Typescript in a nutshell
 
 ## 1. JavaScript vs TypeScript Types
 
