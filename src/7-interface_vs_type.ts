@@ -31,8 +31,8 @@ interface Song {
 }
 
 const mySong: Song = {
-  artistName: 'Metallica',
-  songName: 'Enter Sandman',
+  artistName: 'sondia',
+  songName: 'First Love',
 };
 
 /**

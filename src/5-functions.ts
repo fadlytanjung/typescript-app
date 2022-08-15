@@ -91,7 +91,7 @@ function CT(param: string | number): string | number {
   return param;
 }
 
-// solution 2: generic
+// solution 2: generic (angle bracket)
 // type variabel -> deteksi type data dari caller
 function CT_generic<T>(param: T): T {
   return param;
