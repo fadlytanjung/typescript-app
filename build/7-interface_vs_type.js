@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const mySong = {
-    artistName: 'Metallica',
-    songName: 'Enter Sandman',
+    artistName: 'sondia',
+    songName: 'First Love',
 };
 let myDataIntersection = {
     id: 1,
